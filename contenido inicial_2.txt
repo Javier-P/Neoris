@@ -1,0 +1,42 @@
+Inicio Nov-01-2024 1:30 pm
+
+Control de Versionamiento (pag. 4)
+
+• Herramientas y aplicaciones que permiten llevar un
+control de las versiones de uno o más proyectos.
+• Pilar fundamental de DevOps.
+• Facilita la realización de "rollback", es decir, regresar
+a una versión antigua de la aplicación o de los
+archivos versionados.
+• Facilita el trabajo colaborativo.
+
+Herramientas Gráficas  (pag 5)
+
+Herramientas de entorno gráfico que ofrecen una
+gestión de repositorios de forma visual.
+• Git GUI
+• GitHub Desktop
+• SourceTree
+• GitKraken
+https://git-scm.com/downloads/guis/
+
+Comandos Principales.
+
+Comandos (pag 7)
+
+Serie de instrucciones que son ejecutadas por medio de 
+una terminal o por línea de comandos. 
+
+Permiten mayor control sobre las tareas que se desean ejecutar. 
+
+Suelen ser más eficientes y ágiles en cuanto al tiempo de respuesta. 
+
+Te verás más cool al usar línea de comandos. 
+
+
+
+
+
+
+
+
