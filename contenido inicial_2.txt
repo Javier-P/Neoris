@@ -27,11 +27,6 @@ Comandos (pag 7)
 Serie de instrucciones que son ejecutadas por medio de 
 una terminal o por línea de comandos. 
 
-Permiten mayor control sobre las tareas que se desean ejecutar. 
-
-Suelen ser más eficientes y ágiles en cuanto al tiempo de respuesta. 
-
-Te verás más cool al usar línea de comandos. 
 
 
 
