@@ -47,6 +47,10 @@ Te verás más cool al usar línea de comandos.
 COMANDOS PRINCIPALES (PAG 8)
 =============================
 
+** 15/11/2024
+
+cd <directorio> • Permite movers entre directorio
+
 
 
 
